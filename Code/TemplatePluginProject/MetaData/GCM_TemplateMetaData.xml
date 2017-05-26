@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<MetaData>
+<ProjectTemplate>
+  <Title localize="no">GCM Plugin</Title>
+  <Description localize="no"></Description>
+  <Filters localize="no">Templates:GCM Plugin;Templates:Desktop:GCM Plugin</Filters>
+  <LocationPath>PLUM</LocationPath>
+  <ListboxImagePath>images/PLUM_logo.png</ListboxImagePath>
+  <ProjectPath>InterfaceTemplate.lvproj</ProjectPath>
+  <Keywords localize="no">user interface;PLUM;template</Keywords>
+  <DocumentationPath></DocumentationPath>
+  <CustomVIMode/>
+  <CustomVIPath/>
+  <SortPriority/>
+  <MetaDataClass/>
+  <HidePrefix/>
+  <HideIconOverlay/>
+</ProjectTemplate>
+</MetaData>
